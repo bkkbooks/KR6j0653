@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0653/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0653/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 權現金色迦那婆底九目天法
+  identifiers:
+    krp: KR6j0653
+    cbeta: X02n0185
+    cbeta_old_id: X02n0185
+    authorityid: CA0002612
+    json_key: X0185
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0185.xml
+    old_id: X02n0185
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0653_000-X.yaml, hash: 'sha256:926670c48535e1eaf265eacf3a670ffb6b634bb1764d4f7d4442cf5dbd72e9b3'}
+  - {seq: 1, filename: KR6j0653_001-X.yaml, hash: 'sha256:ee4a48a5b6aa4cb4e0a0e02ce840f38cc475cff210d1f0afc0988982580383d6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0653_000-X.markers.yaml, hash: 'sha256:476134c0da706ec8b6a2fd727900d5c058d287c65c3ba5669ae585a3c21ae90b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0653_001-X.markers.yaml, hash: 'sha256:40f8441de511570de9d89c95b83331e49923d12eb48b5a056feef6c394fc3af2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0653_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 639
+  label: 權現金色迦那婆底九目天法
+  type: juan
+  level: 1
+hash: sha256:d900c1486e23de117d5a405af8a806dddf8313940e2b5e1965fe8f029f05a2ca

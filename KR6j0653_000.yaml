@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0653/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 權現金色迦那婆底九目天法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0185.xml
+    old_id: X02n0185
+hash: sha256:926670c48535e1eaf265eacf3a670ffb6b634bb1764d4f7d4442cf5dbd72e9b3

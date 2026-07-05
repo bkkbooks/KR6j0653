@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0653_000.yaml, hash: 'sha256:926670c48535e1eaf265eacf3a670ffb6b634bb1764d4f7d4442cf5dbd72e9b3'}
-  - {seq: 1, filename: KR6j0653_001.yaml, hash: 'sha256:23affa33461edbd938b1e88b3cbeb6f75a149f68ae2929cd781c0d4d997f1ff4'}
+  - {seq: 1, filename: KR6j0653_001.yaml, hash: 'sha256:ee4a48a5b6aa4cb4e0a0e02ce840f38cc475cff210d1f0afc0988982580383d6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0653_001.markers.yaml, hash: 'sha256:68802a2033eddddc0db6df8561528b957e13d3da16c1c18f3d73499a46f3a509'}
+  - {seq: 0, role: markers, filename: assets/KR6j0653_000.markers.yaml, hash: 'sha256:caea335f49432c272403086650de71f276fcf47d9d7d097729ab9605c2862b50'}
+  - {seq: 1, role: markers, filename: assets/KR6j0653_001.markers.yaml, hash: 'sha256:5aed1f8b0f79cdea1253a358f8a3291b9b8923fedd6d3a0fece41117bab9d5d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 權現金色迦那婆底九目天法
   type: juan
   level: 1
-hash: sha256:5d1674651b7b12f7da9c99fb19087b7a220bccbb2c1b38d4dc0ecab482b55de0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7e294d27d25256753b2a0ad0a5d65f57679dbbfaa6a0c6f0716d0dcbad70d0fd

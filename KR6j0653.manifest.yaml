@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0653/v1
 canonical_location: https://kanripo.org/bkk/KR6j0653/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 權現金色迦那婆底九目天法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0653_000.yaml, hash: 'sha256:926670c48535e1eaf265eacf3a670ffb6b634bb1764d4f7d4442cf5dbd72e9b3'}
-  - {seq: 1, filename: KR6j0653_001.yaml, hash: 'sha256:ee4a48a5b6aa4cb4e0a0e02ce840f38cc475cff210d1f0afc0988982580383d6'}
+  - {seq: 1, filename: KR6j0653_001.yaml, hash: 'sha256:6d8939644eda24f1622cd4247fda95aee77dc0bdc0c97cad242d0cbb664c77c6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0653_000.markers.yaml, hash: 'sha256:caea335f49432c272403086650de71f276fcf47d9d7d097729ab9605c2862b50'}
-  - {seq: 1, role: markers, filename: assets/KR6j0653_001.markers.yaml, hash: 'sha256:5aed1f8b0f79cdea1253a358f8a3291b9b8923fedd6d3a0fece41117bab9d5d3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0653_001.markers.yaml, hash: 'sha256:09e67ccefd08e355b911eeb8b3ea503915cd53917bf15ef0deceede4485d80dc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 權現金色迦那婆底九目天法
   type: juan
   level: 1
-hash: sha256:7e294d27d25256753b2a0ad0a5d65f57679dbbfaa6a0c6f0716d0dcbad70d0fd
+hash: sha256:ce32d9a3631f67400ad6ad78590f6bf48ad3fa13886204e266dcd3168f2656cf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
